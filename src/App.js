@@ -1,3 +1,4 @@
+import "./style.css"
 import React from "react";
 import {nanoid} from "nanoid"
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";

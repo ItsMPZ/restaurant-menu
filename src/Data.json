@@ -1,0 +1,89 @@
+{
+    "breakfast":[
+        {
+            "id": "breakfast-1",
+            "category": "breakfast",
+            "name": "omlet",
+            "ingredients": ["egg","tomato","bread","onion"],
+            "price": 5,
+            "time": 10,
+            "img": "images/breakfast/breakfast-1.jpg"
+        },
+        {
+            "id": "breakfast-2",
+            "category": "breakfast",
+            "name": "bread & cheese",
+            "ingredients": ["bread","cheese","tomato","cucumber","tea"],
+            "price": 3,
+            "time": 8,
+            "img": "images/breakfast/breakfast-2.jpg"
+        },
+        {
+            "id": "breakfast-3",
+            "category": "breakfast",
+            "name": "sausage omlet",
+            "ingredients": ["sausage","egg","tomato paste","bread"],
+            "price": 7,
+            "time": 10,
+            "img": "images/breakfast/breakfast-3.jpg"
+        }
+    ],
+    "lunch":[
+        {
+            "id": "lunch-1",
+            "category": "lunch",
+            "name": "kebab",
+            "ingredients": ["rice","kebab","tomato","butter"],
+            "price": 10,
+            "time": 45,
+            "img": "images/lunch/lunch-1.jpg"
+        },
+        {
+            "id": "lunch-2",
+            "category": "lunch",
+            "name": "estamboly",
+            "ingredients": ["meat","rice","green bean","onion"],
+            "price": 10,
+            "time": 40,
+            "img": "images/lunch/lunch-2.jpg"
+        },
+        {
+            "id": "lunch-3",
+            "category": "lunch",
+            "name": "macaroni",
+            "ingredients": ["macaroni","meat","bell pepper","mushroom"],
+            "price": 8,
+            "time": 40,
+            "img": "images/lunch/lunch-3.jpg"
+        }
+    ],
+    "dinner":[
+        {
+            "id": "dinner-1",
+            "category": "dinner",
+            "name": "burger",
+            "ingredients": ["meat","bread","tomato","pickled cucumber"],
+            "price": 10,
+            "time": 25,
+            "img": "images/dinner/dinner-1.jpg"
+        },
+        {
+            "id": "dinner-2",
+            "category": "dinner",
+            "name": "pizaa",
+            "ingredients": ["peproni","cheese","bell pepper"],
+            "price": 11,
+            "time": 35,
+            "img": "images/dinner/dinner-2.jpg"
+        },
+        {
+            "id": "dinner-3",
+            "category": "dinner",
+            "name": "caesar salad",
+            "ingredients": ["chicken","tomato","olive","lettuce","mushroom"],
+            "price": 9,
+            "time": 20,
+            "img": "images/dinner/dinner-3.jpg"
+        }
+    ]
+}
